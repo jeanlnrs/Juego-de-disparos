@@ -1,0 +1,2 @@
+C:\Users\Admin\OneDrive\Documents\UTP\IV AÑO\II SEMESTRE\Sistemas graficos\Semestral\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\UTP\IV AÑO\II SEMESTRE\Sistemas graficos\Semestral\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

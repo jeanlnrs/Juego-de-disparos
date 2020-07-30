@@ -1,0 +1,93 @@
+c:\users\usuario\documents\visual studio 2015\Projects\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\AA\Downloads\UTP\DES 8 VB\RetoMatematicos\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\AA\Desktop\Nueva carpeta\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\AA\Desktop\Nueva carpeta\RetoOfficial\RetoMatematicos 6-10-16\RetoMatematicos3\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\AA\Desktop\Nueva carpeta\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reparacion btn next\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\AA\Desktop\Culminando proyecto VISUAL\Reto Matematico Fase Final\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\bin\Debug\RetoMatematicos.exe.config
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\bin\Debug\RetoMatematicos.exe
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\bin\Debug\RetoMatematicos.pdb
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\bin\Debug\RetoMatematicos.xml
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojResolveAssemblyReference.cache
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.Form1.resources
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.Resources.resources
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.GenerateResource.Cache
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.vbproj.CoreCompileInputs.cache
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\jean linares\Desktop\Reto Matematico\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Programa 1\RetoMatematicos\obj\Debug\RetoMatematicos.vbprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Programa 1\RetoMatematicos\obj\Debug\RetoMatematicos.exe
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Programa 1\RetoMatematicos\obj\Debug\RetoMatematicos.xml
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Programa 1\RetoMatematicos\obj\Debug\RetoMatematicos.pdb
